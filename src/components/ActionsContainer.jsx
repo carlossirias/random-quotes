@@ -1,4 +1,4 @@
-import { UpdateQuoteIcon, CopyIcon } from "./icons"
+import { UpdateQuoteIcon, CopyIcon } from "./icons-container"
 import { getRandomQuotes } from "../services/quotes";
 import Swal from 'sweetalert2'
 

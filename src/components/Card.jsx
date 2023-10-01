@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { QuotesBackground } from "./QuotesSection"
-import { SpinIcon } from "./icons"
+import { SpinIcon } from "./icons-container"
 
 export function Card({id, author, content, tags, hasContent})
 {
